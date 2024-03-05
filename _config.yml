@@ -4,3 +4,9 @@ plugins:
 
 title: [sherlongqu's blog]
 description: [This is a web page to show sherlongqu's information]
+
+footer_links:
+  github: sherlongqu
+  email: sherlongqu@outlook.com
+
+google_analytics: G-VWKZ681RXV
