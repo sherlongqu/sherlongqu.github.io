@@ -2,4 +2,4 @@
 
 ## Aboute Me
 ## Some Note
-### MIPS32[./mips32]
+### (MIPS32)[./mips32]
